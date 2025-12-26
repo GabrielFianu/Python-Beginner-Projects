@@ -39,4 +39,9 @@ b. Proof:
 Below are the screenshots of editor where the codes are ran. 
 
 
+<img width="999" height="226" alt="Image" src="https://github.com/user-attachments/assets/4f4ad6c2-5324-46e9-aa72-8d568c3e3098" />
+
+<img width="1241" height="218" alt="Image" src="https://github.com/user-attachments/assets/e9b10300-0da4-4ba8-942d-9c4cd5dfc606" />
+
+
 ---
